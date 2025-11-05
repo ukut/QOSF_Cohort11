@@ -254,13 +254,6 @@ probs = get_measurement_probabilities(state)
 3. **Entanglement Visible**: Bell states have non-zero amplitudes for non-local basis states
 4. **Scalability**: The n-qubit generalization supports any system size (limited by memory)
 
-## Extensions & Future Work
-
-- Implement gate operations (Pauli, Hadamard, CNOT)
-- Add measurement simulation
-- Implement state tomography
-- Support mixed states (density matrices)
-- GPU acceleration for large systems
 
 ## References
 
